@@ -1,8 +1,3 @@
-G52AFP Coursework 2 - Monadic Compiler
-
-Godly Obeng Karikari
-psygo1@nottingham.ac.uk
-
 
 > import Control.Monad.Trans.Writer.Lazy
 > import Control.Monad.Trans.Class
